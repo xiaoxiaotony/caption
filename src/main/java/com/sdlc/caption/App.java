@@ -12,7 +12,9 @@ public class App {
 
 	public static void main(String[] args) {
 		logger.info("caption info .....");
+		
 		System.out.println("Hello World!");
+		
 		logger.info("app main finish .......");
 	}
 }
