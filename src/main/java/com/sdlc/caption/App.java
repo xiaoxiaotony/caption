@@ -14,5 +14,6 @@ public class App
     {
     	logger.info("caption info .....");
         System.out.println( "Hello World!" );
+        logger.info("app main finish .......");
     }
 }
